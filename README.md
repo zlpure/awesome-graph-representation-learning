@@ -8,7 +8,7 @@
 
 A curated list for awesome graph representation learning resources. Inspired by [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs), and [awesome-deep-gnn](https://github.com/mengliu1998/awesome-deep-gnn).
 # Background
-> The field of graph representation learning has grown at an incredible (and sometimes unwieldy) pace over the past seven years, transforming from a small subset of researchers working on a relatively niche topic to one of the fastest growing sub-areas of deep learning.   - - William L. Hamilton
+> The field of graph representation learning has grown at an incredible (and sometimes unwieldy) pace over the past seven years, transforming from a small subset of researchers working on a relatively niche topic to one of the fastest growing sub-areas of deep learning.  &#160;&#160;&#160;&#160; - - William L. Hamilton
 
 Graph representation learning (GRL) have recently become increasingly popular due to their ability to model *relationships* or *interactions* of complex systems. However GRL is still a nascent field in the Machine Learning community. Rather than providing overwhelming amount of papers, the goal of this repository is to provide a *curated list* of awesome GRL papers, as well as some intriguing blog posts and talks.
 # Contributing
