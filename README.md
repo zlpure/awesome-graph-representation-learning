@@ -53,7 +53,7 @@ Conference Year
 
     *Basic concepts on Networks*
 
-- Network Science
+- Network Science [[pdf]](http://networksciencebook.com/chapter/0)
 
     Albert-László Barabási
 
@@ -61,7 +61,7 @@ Conference Year
 
     *Basic concepts on Networks*
 
-- Relational inductive biases, deep learning, and graph networks
+- Relational inductive biases, deep learning, and graph networks [[pdf]](https://arxiv.org/pdf/1806.01261.pdf)
 
     Battaglia, Peter W and Hamrick, Jessica B, et al.
 
@@ -69,9 +69,9 @@ Conference Year
 
     *Relational inductive biases on graphs*
 
-- A comprehensive survey on graph neural networks
+- A comprehensive survey on graph neural networks [[pdf]](https://arxiv.org/pdf/1901.00596.pdf)
     
-    Wu, Zonghan, Pan, Shirui, Philip, S Yu, et al.
+    Zonghan Wu, Shirui Pan, Chen, Guodong Long, Chengqi Zhang, Philip, S Yu
 
     IEEE 2020
 
@@ -94,7 +94,7 @@ Conference Year
 
 
 ## Some Must-Read Papers
-- Collective dynamics of 'small-world' networks
+- Collective dynamics of 'small-world' networks [[pdf]](https://www.nature.com/articles/30918)
 
     Watts, Duncan J and Strogatz, Steven H
 
@@ -102,7 +102,7 @@ Conference Year
 
     *'small-world phenomena'*
 
-- Network motifs: simple building blocks of complex networks
+- Network motifs: simple building blocks of complex networks [[pdf]](https://science.sciencemag.org/content/298/5594/824)
 
     R. Milo, S. Shen-Orr, S. Itzkovitz, N. Kashtan, D. Chklovskii, U. Alon
 
@@ -110,7 +110,7 @@ Conference Year
 
     *Network motifs*
 
-- Rolx: structural role extraction \& mining in large graphs
+- Rolx: structural role extraction \& mining in large graphs [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2339530.2339723)
 
     Keith Henderson, Brian Gallagher, Tina Eliassi-Rad, et al.
 
@@ -118,7 +118,7 @@ Conference Year
 
     *Structural rele*
 
-- Birds of a feather: Homophily in social networks
+- Birds of a feather: Homophily in social networks [[pdf]](https://www.annualreviews.org/doi/pdf/10.1146/annurev.soc.27.1.415)
 
     McPherson, Miller and Smith-Lovin, Lynn and Cook, James M
 
@@ -126,7 +126,7 @@ Conference Year
 
     *Homophily phenomena*
 
-- Network embedding as matrix factorization: Unifying deepwalk, line, pte, and node2vec
+- Network embedding as matrix factorization: Unifying deepwalk, line, pte, and node2vec [[pdf]](https://arxiv.org/abs/1710.02971.pdf) [[code]](https://github.com/xptree/NetMF)
 
     Qiu, Jiezhong and Dong, Yuxiao and Ma, Hao and Li, Jian and Wang, Kuansan and Tang, Jie
 
