@@ -1,6 +1,6 @@
 # Awesome Graph Representation Learning
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/zlpure/awesome-graph-representation-learning.svg?color=lightgrey)  ![GitHub forks](https://img.shields.io/github/forks/zlpure/awesome-graph-representation-learning?color=9cf)  ![visitors](https://visitor-badge.glitch.me/badge?page_id=zlpure/awesome-graph-representation-learning)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=zlpure/awesome-graph-representation-learning) ![GitHub stars](https://img.shields.io/github/stars/zlpure/awesome-graph-representation-learning.svg?color=green)  ![GitHub forks](https://img.shields.io/github/forks/zlpure/awesome-graph-representation-learning?color=9cf)
 
 <p align="center">
   <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
@@ -28,11 +28,55 @@ Conference Year
 - [Papers](#papers)
     - [Surveys](#surveys)
     - [ICML 2021](#ICML-2021)
+    - [Some Must-Read Papers](#some-must-read-papers)
 - Blog posts
 
 - Talks
+
+# Books
+
 # Papers
 ## Surveys
+- Graph Representation Learning [[pdf]](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+
+    William L. Hamilton
+
+    Book
+
+    *Classical survey*
+    
+- Networks, Crowds, and Markets - Reasoning About a Highly Connected World [[pdf]](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)
+
+    D Easley, J Kleinberg
+
+    Book
+
+    *Basic concepts on Networks*
+
+- Network Science
+
+    Albert-László Barabási
+
+    Book
+
+    *Basic concepts on Networks*
+
+- Relational inductive biases, deep learning, and graph networks
+
+    Battaglia, Peter W and Hamrick, Jessica B, et al.
+
+    Arxiv 2018
+
+    *Relational inductive biases on graphs*
+
+- A comprehensive survey on graph neural networks
+    
+    Wu, Zonghan, Pan, Shirui, Philip, S Yu, et al.
+
+    IEEE 2020
+
+    *Survey*
+
 - Self-Supervised Learning of Graph Neural Networks: A Unified Review [[pdf]](https://arxiv.org/pdf/2102.10757.pdf)
 
     Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhengyang Wang, Shuiwang Ji
@@ -47,3 +91,45 @@ Conference Year
     Guohao Li, Matthias Müller, Bernard Ghanem, Vladlen Koltun
 
     *Deeper GNNs*
+
+
+## Some Must-Read Papers
+- Collective dynamics of 'small-world' networks
+
+    Watts, Duncan J and Strogatz, Steven H
+
+    Nature 1998
+
+    *'small-world phenomena'*
+
+- Network motifs: simple building blocks of complex networks
+
+    R. Milo, S. Shen-Orr, S. Itzkovitz, N. Kashtan, D. Chklovskii, U. Alon
+
+    Science 2002 
+
+    *Network motifs*
+
+- Rolx: structural role extraction \& mining in large graphs
+
+    Keith Henderson, Brian Gallagher, Tina Eliassi-Rad, et al.
+
+    KDD 2012
+
+    *Structural rele*
+
+- Birds of a feather: Homophily in social networks
+
+    McPherson, Miller and Smith-Lovin, Lynn and Cook, James M
+
+    Annual review of sociology 2001
+
+    *Homophily phenomena*
+
+- Network embedding as matrix factorization: Unifying deepwalk, line, pte, and node2vec
+
+    Qiu, Jiezhong and Dong, Yuxiao and Ma, Hao and Li, Jian and Wang, Kuansan and Tang, Jie
+
+    WSDM 2018
+
+    *Unified framework for network embedding*
