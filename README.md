@@ -1,1 +1,1 @@
-# awesome-graph-representation-learning
+# Awesome Graph Representation Learning
