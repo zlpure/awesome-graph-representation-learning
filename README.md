@@ -25,13 +25,13 @@ Conference Year
 *Taxonomy* (No more than 5 words)
 ```
 # Table of Contents
-- Papers
-    - Surveys
-    - ICML 2021
+- [Papers](#papers)
+    - [Surveys](#surveys)
+    - [ICML 2021](#ICML-2021)
 - Blog posts
 
 - Talks
-# Paper
+# Papers
 ## Surveys
 - Self-Supervised Learning of Graph Neural Networks: A Unified Review [[pdf]](https://arxiv.org/pdf/2102.10757.pdf)
 
