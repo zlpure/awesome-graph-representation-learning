@@ -22,7 +22,7 @@ Author 1, Author 2, Author 3.
 
 *Conference Year*
 
-taxonomy (No more than 5 words)
+Taxonomy (No more than 5 words)
 ```
 # Table of Contents
 
