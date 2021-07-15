@@ -10,7 +10,7 @@ A curated list for awesome graph representation learning resources. Inspired by 
 # Background
 > The field of graph representation learning has grown at an incredible (and sometimes unwieldy) pace over the past seven years, transforming from a small subset of researchers working on a relatively niche topic to one of the fastest growing sub-areas of deep learning.  &#160;&#160;&#160;&#160; - - William L. Hamilton
 
-Graph representation learning (GRL) have recently become increasingly popular due to their ability to model *relationships* or *interactions* of complex systems. However GRL is still a nascent field in the Machine Learning community. Rather than providing overwhelming amount of papers, the goal of this repository is to provide a *curated list* of awesome GRL papers, as well as some intriguing blog posts and talks.
+Graph representation learning (GRL) have recently become increasingly popular due to their ability to model *relationships* or *interactions* of complex systems. However GRL is still a nascent field in the Machine Learning community. Rather than providing overwhelming amount of papers, the goal of this repository is to provide a *curated list* of awesome GRL papers that we have read, as well as some intriguing blog posts and talks.
 # Contributing
 You are welcome to contribute this repo by contracting [me](zengl18@mails.tsinghua.edu.cn) or adding [pull request](https://github.com/zlpure/awesome-graph-representation-learning/pulls).
 
@@ -20,10 +20,30 @@ Paper Name [[pdf]](link) [[code]](link)
 
 Author 1, Author 2, Author 3. 
 
-*Conference Year*
+Conference Year
 
-taxonomy (No more than 5 words)
+*Taxonomy* (No more than 5 words)
 ```
 # Table of Contents
+- Papers
+    - Surveys
+    - ICML 2021
+- Blog posts
 
-#
+- Talks
+# Paper
+## Surveys
+- Self-Supervised Learning of Graph Neural Networks: A Unified Review [[pdf]](https://arxiv.org/pdf/2102.10757.pdf)
+
+    Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhengyang Wang, Shuiwang Ji
+
+    Arxiv 2021
+
+    *Self-supervised learning*
+
+## ICML 2021
+- Training Graph Neural Networks with 1000 Layers [[pdf]](https://arxiv.org/pdf/2106.07476.pdf) [[code]](https://www.deepgcns.org/arch/gnn1000)
+
+    Guohao Li, Matthias Müller, Bernard Ghanem, Vladlen Koltun
+
+    *Deeper GNNs*
