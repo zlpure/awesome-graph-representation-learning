@@ -91,6 +91,13 @@ Conference Year
 
     *Self-supervised learning*
 
+- Combinatorial optimization and reasoning with graph neural networks [[pdf]](https://arxiv.org/pdf/2102.09544.pdf)
+
+    Quentin Cappart, Didier Chételat, Elias Khalil, Andrea Lodi, Christopher Morris, Petar Veličković
+
+    IJCAI 2021
+
+    *Survey on GNNs for combinatorial optimization and algorithmic reasoning*
 
 ## ICML 2021
 - Training Graph Neural Networks with 1000 Layers [[pdf]](https://arxiv.org/pdf/2106.07476.pdf) [[code]](https://www.deepgcns.org/arch/gnn1000)
@@ -109,7 +116,7 @@ Conference Year
 
     Yuning You, Tianlong Chen, Yang Shen,  Zhangyang Wang
 
-    *Graoh contrastive learning*
+    *Graph contrastive learning*
 
 - GNNAutoScale- Scalable and Expressive Graph Neural Networks via Historical Embeddings [[pdf]](https://arxiv.org/pdf/2106.05609.pdf) [[code]](https://github.com/rusty1s/pyg_autoscale)
 
@@ -117,7 +124,11 @@ Conference Year
 
     *Large scale GNNs*
 
+- A Unified Lottery Ticket Hypothesis for Graph Neural Networks [[pdf]](https://arxiv.org/abs/2102.06790) [[code]](https://github.com/VITA-Group/Unified-LTH-GNN)
 
+    Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang
+
+    *Sparse training on GNNs*
 ## WWW 2021
 - Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework [[pdf]](https://arxiv.org/pdf/2103.02885.pdf) [[code]](https://github.com/BUPT-GAMMA/CPF)
     
@@ -145,12 +156,17 @@ Conference Year
 
     *Graph attention mechanism*
 
-- CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks [[pdf]](https://arxiv.org/pdf/2010.02089.pdf) [[code]](https://github.com/jiaqima/CopulaGNN
+- CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks [[pdf]](https://arxiv.org/pdf/2010.02089.pdf) [[code]](https://github.com/jiaqima/CopulaGNN)
     
     Jiaqi Ma, Bo Chang, Xuefei Zhang, Qiaozhu Mei
 
     *Representational and correlational roles of graphs*
 
+- How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks [[pdf]](https://openreview.net/pdf?id=UH-cmocLJC)
+
+    Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka
+
+    *Extrapolation*
 
 ## NeuIPS 2020
 - Graph Random Neural Network for Semi-Supervised Learning on Graphs [[pdf]](https://arxiv.org/pdf/2005.11079.pdf) [[code]](https://github.com/THUDM/GRAND)
@@ -352,6 +368,24 @@ Conference Year
 
     *Graph pre-training*
 
+- WHAT GRAPH NEURAL NETWORKS CANNOT LEARN: DEPTH VS WIDTH [[pdf]](https://openreview.net/pdf?id=B1l2bp4YwS)
+
+    Andreas Loukas
+
+    *Expressive power of GNNs*
+
+- Neural Execution of Graph Algorithms [[pdf]](https://openreview.net/pdf?id=SkgKO0EtvS)
+
+    Petar Veličković, Rex Ying, Matilde Padovano, Raia Hadsell, Charles Blundell
+
+    *Algorithmic reasoning*
+
+
+- What Can Neural Networks Reason About?[[pdf]](https://openreview.net/forum?id=rJxbJeHFPS)
+
+    Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka
+
+    *Algorithmic reasoning*
 
 ## NIPS 2019
 - GNNExplainer: Generating Explanations for Graph Neural Networks [[pdf]](https://arxiv.org/pdf/1903.03894.pdf) [[code]](https://github.com/RexYing/gnn-model-explainer)
