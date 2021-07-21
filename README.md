@@ -448,11 +448,15 @@ Conference Year
 
     Jian Tang 2022
 
-- Expressive Power of Graph Neural Networks [video](https://www.bilibili.com/video/BV1Dz4y1Q7d4?from=search&seid=12042387670249475077)
+- Theoretical Foundations of Graph Neural Networks [[pdf]](https://petar-v.com/talks/GNN-Wednesday.pdf) [[video]](https://www.youtube.com/watch?v=uF53xsT7mjc)
+
+    Petar Veličković 2021
+
+- Expressive Power of Graph Neural Networks [[video]](https://www.bilibili.com/video/BV1Dz4y1Q7d4?from=search&seid=12042387670249475077)
 
     Huawei Shen 2020
 
-- Graph Representation Learning for Algorithmic Reasoning [[video]](https://www.youtube.com/watch?v=IPQ6CPoluok) [[pdf]](https://petar-v.com/talks/Algo-WWW.pdf)
+- Graph Representation Learning for Algorithmic Reasoning [[pdf]](https://petar-v.com/talks/Algo-WWW.pdf) [[video]](https://www.youtube.com/watch?v=IPQ6CPoluok)
 
     Petar Veličković 2020
 
