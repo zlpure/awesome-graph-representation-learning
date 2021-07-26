@@ -6,7 +6,7 @@
   <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
 </p>
 
-A curated list for awesome graph representation learning resources. Inspired by [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs), and [awesome-deep-gnn](https://github.com/mengliu1998/awesome-deep-gnn).
+A curated list for awesome deep graph representation learning resources. Inspired by [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search), [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs), and [awesome-deep-gnn](https://github.com/mengliu1998/awesome-deep-gnn).
 # Background
 > The field of graph representation learning has grown at an incredible (and sometimes unwieldy) pace over the past seven years, transforming from a small subset of researchers working on a relatively niche topic to one of the fastest growing sub-areas of deep learning.  &#160;&#160;&#160;&#160; - - William L. Hamilton
 
