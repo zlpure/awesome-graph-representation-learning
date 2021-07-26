@@ -1,4 +1,4 @@
-# Awesome Graph Representation Learning
+# Awesome Deep Graph Representation Learning
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=zlpure/awesome-graph-representation-learning) ![GitHub stars](https://img.shields.io/github/stars/zlpure/awesome-graph-representation-learning.svg?color=green)  ![GitHub forks](https://img.shields.io/github/forks/zlpure/awesome-graph-representation-learning?color=9cf)
 
@@ -129,6 +129,19 @@ Conference Year
     Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang
 
     *Sparse training on GNNs*
+
+- On Explainability of Graph Neural Networks via Subgraph Explorations [[pdf]](https://arxiv.org/pdf/2102.05152.pdf) [[code]](https://github.com/divelab/DIG)
+
+    Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji
+
+    *Explanations of GNNs*
+
+- Elastic Graph Neural Networks [[pdf]](https://arxiv.org/pdf/2107.06996.pdf) [[code]](https://github.com/lxiaorui/ElasticGNN)
+
+    Xiaorui Liu, Wei Jin, Yao Ma, Yaxin Li, Hua Liu, Yiqi Wang, Ming Yan, Jiliang Tang
+
+    *New architecture of GNNs*
+
 ## WWW 2021
 - Extract the Knowledge of Graph Neural Networks and Go Beyond it: An Effective Knowledge Distillation Framework [[pdf]](https://arxiv.org/pdf/2103.02885.pdf) [[code]](https://github.com/BUPT-GAMMA/CPF)
     
@@ -448,6 +461,10 @@ Conference Year
 
     Jian Tang 2022
 
+- Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs [[pdf]](https://www.jiongzhu.net/assets/files/F20-Jiong-H2GCN-NeurIPS-Talk.pdf)
+
+    Jiong Zhu 2021
+
 - Theoretical Foundations of Graph Neural Networks [[pdf]](https://petar-v.com/talks/GNN-Wednesday.pdf) [[video]](https://www.youtube.com/watch?v=uF53xsT7mjc)
 
     Petar Veličković 2021
@@ -461,6 +478,14 @@ Conference Year
     Petar Veličković 2020
 
 # Blog posts
-- Graph Contrastive learning [URL](https://sxkdz.github.io/research/GraphCL/)
+- Graph Neural Networks as Neural Diffusion PDEs [[URL]](https://towardsdatascience.com/graph-neural-networks-as-neural-diffusion-pdes-8571b8c0c774)
+
+    Michael Bronstein 2022
+
+- Graph Contrastive learning [[URL]](https://sxkdz.github.io/research/GraphCL/)
 
     Yanqiao Zhu 2021
+
+- Temporal Graph Networks [[URL]](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe)
+
+    Michael Bronstein 2020
