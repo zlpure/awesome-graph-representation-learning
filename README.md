@@ -27,6 +27,7 @@ Conference Year
 # Table of Contents
 - [Papers](#papers)
     - [Surveys](#surveys)
+    - [KDD 2021](#KDD-2021)
     - [ICML 2021](#ICML-2021)
     - [WWW 2021](#WWW-2021)
     - [ICLR 2021](#ICLR-2021)
@@ -98,6 +99,37 @@ Conference Year
     IJCAI 2021
 
     *Survey on GNNs for combinatorial optimization and algorithmic reasoning*
+
+## KDD 2021
+- Adaptive Transfer Learning on Graph Neural Networks [[pdf]](https://arxiv.org/pdf/2107.08765.pdf)
+
+    Xueting Han, Zhenhuan Huang, Bang An, Jing Bai
+
+    *Transfer learning on GNNs*
+
+- Tail-GNN: Tail-Node Graph Neural Networks [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467276)
+
+    Zemin Liu, Trung-Kien Nguyen, Yuan Fang
+
+    *Long-tailed recognization on graph node degrees*
+
+- Zero-shot Node Classification with Decomposed Graph Prototype Network [[pdf]](https://arxiv.org/pdf/2106.08022.pdf)
+
+    Zheng Wang, Jialong Wang, Yuchen Guo, Zhiguo Gong
+
+    *Zero-shot Node Classification*
+
+- ImGAGN:Imbalanced Network Embedding via Generative Adversarial Graph Networks [[pdf]](https://arxiv.org/pdf/2106.02817.pdf) [[code]](https://github.com/Leo-Q-316/ImGAGN)
+
+    Liang Qu, Huaisheng Zhu, Ruiqi Zheng, Yuhui Shi, Hongzhi Yin
+
+    *Imbalanced Network Embedding*
+
+- ROD: Reception-aware Online Distillation for Sparse Graphs [[pdf]](https://arxiv.org/pdf/2107.11789.pdf)
+
+    Wentao Zhang, Yuezihan Jiang, Yang Li, et al.
+
+    *New architecture of GNNs*
 
 ## ICML 2021
 - Training Graph Neural Networks with 1000 Layers [[pdf]](https://arxiv.org/pdf/2106.07476.pdf) [[code]](https://www.deepgcns.org/arch/gnn1000)
@@ -181,6 +213,11 @@ Conference Year
 
     *Extrapolation*
 
+- On the Bottleneck of Graph Neural Networks and its Practical Implications [[pdf]](https://arxiv.org/pdf/2006.05205.pdf) [[code]](https://github.com/tech-srl/bottleneck/)
+    
+    Uri Alon, Eran Yahav
+
+    *over-squashing on GNNs*
 ## NeuIPS 2020
 - Graph Random Neural Network for Semi-Supervised Learning on Graphs [[pdf]](https://arxiv.org/pdf/2005.11079.pdf) [[code]](https://github.com/THUDM/GRAND)
 
@@ -457,9 +494,21 @@ Conference Year
 
 
 # Talks
+- Graph Neural Networks with Learnable Structural and Positional Representation [[video]](https://www.youtube.com/watch?v=hADjUl4ymoQ)
+
+    Xavier Bresson 2021
+
+- Graph Representation Learning:Foundations, Methods, Applications and Systems [[pdf]](https://kdd2021graph.github.io)
+
+    KDD 2021 Graph tutorial
+
+- Graph Neural Networks: Algorithms and Applications [[pdf]](https://drive.google.com/file/d/1ULelq5bs7bU1iQLhQnapVSQO6fJnitSJ/view)
+
+    Jian Tang 2021
+
 - Graph Representation Learning for Drug Discovery [[pdf]](https://drive.google.com/file/d/19e0scMh4Fxzsbq6a8Z9idsYcsnLAgYAx/view)
 
-    Jian Tang 2022
+    Jian Tang 2021
 
 - Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs [[pdf]](https://www.jiongzhu.net/assets/files/F20-Jiong-H2GCN-NeurIPS-Talk.pdf)
 
@@ -489,3 +538,7 @@ Conference Year
 - Temporal Graph Networks [[URL]](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe)
 
     Michael Bronstein 2020
+
+- Graph Diffusion Convolution [[URL]](https://msrmblog.github.io/graph-diffusion-convolution/)
+
+    Johannes Klicpera 2020
