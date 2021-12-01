@@ -27,6 +27,7 @@ Conference Year
 # Table of Contents
 - [Papers](#papers)
     - [Surveys](#surveys)
+    - [NeuIPS 2021](#NIPS-2021)
     - [KDD 2021](#KDD-2021)
     - [ICML 2021](#ICML-2021)
     - [WWW 2021](#WWW-2021)
@@ -100,6 +101,25 @@ Conference Year
 
     *Survey on GNNs for combinatorial optimization and algorithmic reasoning*
 
+## NeuIPS 2021
+- Multi-view Contrastive Graph Clustering [[pdf]](https://arxiv.org/pdf/2110.11842.pdf) [[code]](https://github.com/Panern/MCGC)
+
+    Erlin Pan, Zhao Kang
+
+    *Graph clustering*
+
+- Subgraph Federated Learning with Missing Neighbor Generation [[pdf]](https://arxiv.org/pdf/2106.13430.pdf)
+
+    Ke Zhang, Carl Yang, Xiaoxiao Li, Lichao Sun, Siu Ming Yiu
+
+    *Federated learning on graphs*
+
+- Edge Representation Learning with Hypergraphs [[pdf]](https://arxiv.org/pdf/2106.15845.pdf) [[code]](https://github.com/harryjo97/EHGNN)
+
+    Jaehyeong Jo, Jinheon Baek, Seul Lee, et al.
+
+    *Edge representation learning on graphs*
+
 ## KDD 2021
 - Adaptive Transfer Learning on Graph Neural Networks [[pdf]](https://arxiv.org/pdf/2107.08765.pdf)
 
@@ -130,6 +150,12 @@ Conference Year
     Wentao Zhang, Yuezihan Jiang, Yang Li, et al.
 
     *New architecture of GNNs*
+
+- When Comparing to Ground Truth is Wrong: On Evaluating GNN Explanation Methods [[pdf]](https://dl.acm.org/doi/abs/10.1145/3447548.3467283) [[code]](https://github.com/m30m/gnn-explainability)
+
+    Lukas Faber, Amin K. Moghaddam, Roger Wattenhofer
+
+    *Explanations of GNNs*
 
 ## ICML 2021
 - Training Graph Neural Networks with 1000 Layers [[pdf]](https://arxiv.org/pdf/2106.07476.pdf) [[code]](https://www.deepgcns.org/arch/gnn1000)
