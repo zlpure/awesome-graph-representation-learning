@@ -120,6 +120,36 @@ Conference Year
 
     *Edge representation learning on graphs*
 
+- Be Confident! Towards Trustworthy Graph Neural Networks via Confidence Calibration [[pdf]](https://arxiv.org/pdf/2109.14285.pdf)
+
+    Xiao Wang, Hongrui Liu, Chuan Shi, Cheng Yang
+
+    *Confidence calibration of GNNs*
+
+- InfoGCL: Information-Aware Graph Contrastive Learning [[pdf]](https://arxiv.org/pdf/2110.15438.pdf)
+
+    Dongkuan Xu, Wei Cheng, Dongsheng Luo, Haifeng Chen, Xiang Zhang
+
+    *Graph contrastive learning*
+
+- Robustness of Graph Neural Networks at Scale [[pdf]](https://arxiv.org/pdf/2110.14038.pdf)
+
+    Simon Geisler, Tobias Schmidt, Hakan Şirin, Daniel Zügner, Aleksandar Bojchevski, Stephan Günnemann
+
+    *Robustness of GNNs*
+
+- Not All Low-Pass Filters are Robust in Graph Convolutional Networks [[pdf]](https://openreview.net/pdf?id=bDdfxLQITtu)
+
+    Heng Chang, Yu Rong, Tingyang Xu, Yatao Bian, Shiji Zhou, Xin Wang, Junzhou Huang, Wenwu Zhu
+
+    *Robustness of GNNs*
+
+-  Towards Open-World Feature Extrapolation- An Inductive Graph Learning Approach [[pdf]](https://arxiv.org/pdf/2110.04514.pdf)
+
+    Qitian Wu, Chenxiao Yang, Junchi Yan
+
+    *Application of GNNs: feature extrapolation*
+
 ## KDD 2021
 - Adaptive Transfer Learning on Graph Neural Networks [[pdf]](https://arxiv.org/pdf/2107.08765.pdf)
 
