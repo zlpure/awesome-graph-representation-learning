@@ -27,17 +27,19 @@ Conference Year
 # Table of Contents
 - [Papers](#papers)
     - [Surveys](#surveys)
-    - [NeuIPS 2021](#NeuIPS-2021)
+    - [ICLR 2022](#ICLR-2022)
+    - [WWW 2022](#WWW-2022)
+    - [NeurIPS 2021](#NeurIPS-2021)
     - [KDD 2021](#KDD-2021)
     - [ICML 2021](#ICML-2021)
     - [WWW 2021](#WWW-2021)
     - [ICLR 2021](#ICLR-2021)
-    - [NeuIPS 2020](#NeuIPS-2020)
+    - [NeurIPS 2020](#NeurIPS-2020)
     - [KDD 2020](#KDD-2020)
     - [AAAI 2021](#AAAI-2021)
     - [ICML 2020](#ICML-2020)
     - [ICLR 2020](#ILCR-2020)
-    - [NIPS 2019](#NIPS-2019)
+    - [NeurIPS 2019](#NeurIPS-2019)
     - [Some Must-Read Papers](#some-must-read-papers)
 - [Talks](#Talks)
 - [Blog posts](#Blog-posts)
@@ -101,7 +103,88 @@ Conference Year
 
     *Survey on GNNs for combinatorial optimization and algorithmic reasoning*
 
-## NeuIPS 2021
+## ICLR 2022
+- On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features [[pdf]](https://arxiv.org/pdf/2111.12128.pdf)
+
+    Emanuele Rossi, Henry Kenlay, et al.
+
+    *Feature propagation on graphs*
+
+- Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods [[pdf]](https://arxiv.org/pdf/2111.04840.pdf) [[code]](https://github.com/amazon-research/gnn-tail-generalization)
+
+    Wenqing Zheng, Edward W Huang, et al.
+
+    *Imbalanced learning on graphs*
+
+- Equivariant Graph Mechanics Networks with Constraints [[pdf]](https://arxiv.org/abs/2203.06442.pdf) [[code]](https://github.com/hanjq17/GMN)
+
+    Wenbing Huang, Jiaqi Han, et al.
+
+    *AI for science using GNNs*
+
+- Discovering Invariant Rationales for Graph Neural Networks [[pdf]](https://arxiv.org/pdf/2201.12872.pdf) [[code]](https://github.com/Wuyxin/DIR-GNN)
+
+    Ying-Xin Wu, Xiang Wang, An Zhang, Xiangnan He, Tat-Seng Chua
+
+    *Causal inference on graphs*
+
+- Is Homophily a Necessity for Graph Neural Networks? [[pdf]](https://arxiv.org/pdf/2106.06134.pdf)
+
+    Yao Ma, Xiaorui Liu, Neil Shah, Jiliang Tang
+
+    *Homophily property on GNNs*
+
+- Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design [[pdf]](https://arxiv.org/pdf/2110.04624.pdf) 
+
+    Wengong Jin, Jeremy Wohlwend, Regina Barzilay, Tommi Jaakkola
+
+    *AI for drugs using GNNs*
+
+- Graph-Guided Network for Irregularly Sampled Multivariate Time Series [[pdf]](https://arxiv.org/pdf/2110.05357.pdf) [[code]](https://github.com/mims-harvard/Raindrop)
+
+    Xiang Zhang, Marko Zeman, Theodoros Tsiligkaridis, Marinka Zitnik
+
+    *Temporal-spatial data using GNNs*
+
+- Evaluation Metrics for Graph Generative Models: Problems, Pitfalls, and Practical Solutions [[pdf]](https://arxiv.org/pdf/2106.01098.pdf) [[code]](https://github.com/BorgwardtLab/ggme)
+
+    Leslie O'Bray, Max Horn, Bastian Rieck, Karsten Borgwardt
+
+    *Evaluation of graph generation*
+
+- Context-Aware Sparse Deep Coordination Graphs [[pdf]](https://arxiv.org/pdf/2106.02886.pdf) [[code]](https://github.com/TonghanWang/CASEC-MACO-benchmark)
+
+    Tonghan Wang, Liang Zeng, Weijun Dong, Qianlan Yang, Yang Yu, Chongjie Zhang
+
+    *Coordination graphs*
+
+
+## WWW 2022
+- Towards Unsupervised Deep Graph Structure Learning [[pdf]](https://arxiv.org/abs/2201.06367.pdf) [[code]](https://github.com/GRAND-Lab/SUBLIME)
+
+    Yixin Liu, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan
+
+    *Graph structure learning*
+
+- ClusterSCL: Cluster-Aware Supervised Contrastive Learning on Graphs [[pdf]](http://keg.cs.tsinghua.edu.cn/yuxiao/papers/WWW22-Wang-ClusterSCL.pdf) [[code]](https://github.com/wyl7/ClusterSCL)
+
+    Yanling Wang, Jing Zhang, et al.
+
+    *Graph contrastive learning*
+
+- ALLIE: Active Learning on Large-scale Imbalanced Graphs [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485447.3512229) 
+
+    Limeng Cui, Xianfeng Tang, et al.
+
+    *Active learning & Imbalanced learning*
+
+- PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm [[pdf]](https://arxiv.org/pdf/2203.00638.pdf) <font color=red>(Best candidiate paper)</font>
+
+    Wentao Zhang, Yu Shen, et al.
+
+    *Neural architecture search on graphs*
+
+## NeurIPS 2021
 - Multi-view Contrastive Graph Clustering [[pdf]](https://arxiv.org/pdf/2110.11842.pdf) [[code]](https://github.com/Panern/MCGC)
 
     Erlin Pan, Zhao Kang
@@ -274,7 +357,7 @@ Conference Year
     Uri Alon, Eran Yahav
 
     *over-squashing on GNNs*
-## NeuIPS 2020
+## NeurIPS 2020
 - Graph Random Neural Network for Semi-Supervised Learning on Graphs [[pdf]](https://arxiv.org/pdf/2005.11079.pdf) [[code]](https://github.com/THUDM/GRAND)
 
     Wenzheng Feng, Jie Zhang, Yuxiao Dong, Yu Han, Huanbo Luan, Qian Xu, Qiang Yang, Evgeny Kharlamov, Jie Tang
@@ -493,7 +576,7 @@ Conference Year
 
     *Algorithmic reasoning*
 
-## NIPS 2019
+## NeurIPS 2019
 - GNNExplainer: Generating Explanations for Graph Neural Networks [[pdf]](https://arxiv.org/pdf/1903.03894.pdf) [[code]](https://github.com/RexYing/gnn-model-explainer)
 
     Rex Ying, Dylan Bourgeois, Jiaxuan You, Marinka Zitnik, Jure Leskovec
