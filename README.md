@@ -27,6 +27,7 @@ Conference Year
 # Table of Contents
 - [Papers](#papers)
     - [Surveys](#surveys)
+    - [ICML 2022](#ICML-2022)
     - [ICLR 2022](#ICLR-2022)
     - [WWW 2022](#WWW-2022)
     - [NeurIPS 2021](#NeurIPS-2021)
@@ -103,7 +104,32 @@ Conference Year
 
     *Survey on GNNs for combinatorial optimization and algorithmic reasoning*
 
+## ICML 2022
+- 3D Infomax improves GNNs for Molecular Property Prediction [[pdf]](https://arxiv.org/abs/2110.04126.pdf) [[code]](https://github.com/HannesStark/3DInfomax)
+
+    Hannes Stärk, Dominique Beaini, Gabriele Corso, et al.
+
+    *Molecular property prediction on 3D molecule geometry*
+
+-  EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction [[pdf]](https://arxiv.org/pdf/2202.05146.pdf) [[code]](https://github.com/HannesStark/EquiBind)
+
+    Hannes Stärk, Octavian-Eugen Ganea, et al.
+
+    *Drug-protein binding prediction*
+
+- G-Mixup: Graph Data Augmentation for Graph Classification [[pdf]](https://arxiv.org/pdf/2202.07179.pdf) [[code]](https://github.com/ahxt/g-mixup)
+
+    Xiaotian Han, Zhimeng Jiang, Ninghao Liu, Xia Hu
+
+    *Mixup on graphs*
+
 ## ICLR 2022
+- Context-Aware Sparse Deep Coordination Graphs [[pdf]](https://arxiv.org/abs/2106.02886.pdf) [[code]](https://github.com/TonghanWang/CASEC-MACO-benchmark)
+
+    Tonghan Wang, Liang Zeng, et al.
+
+    *Coordination graphs on multi-agent RL*
+
 - On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features [[pdf]](https://arxiv.org/pdf/2111.12128.pdf)
 
     Emanuele Rossi, Henry Kenlay, et al.
